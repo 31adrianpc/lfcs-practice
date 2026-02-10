@@ -1,0 +1,6 @@
+=== ARCHIVOS CON PERMISOS 777 ===
+/srv/app/data/info.txt
+=== ARCHIVOS MAYORES A 1MB ===
+/srv/app/data/bigfile.bin
+=== ARCHIVOS SENSIBLES ===
+/srv/app/data/secret.txt
