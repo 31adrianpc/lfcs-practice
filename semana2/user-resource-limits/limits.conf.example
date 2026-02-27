@@ -1,0 +1,5 @@
+# Limites aplicados al usuario dev1
+dev1 soft nproc 50
+dev1 hard nproc 50
+dev1 soft as 102400
+dev1 hard as 102400
